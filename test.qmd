@@ -73,3 +73,14 @@ log(-x)
 ```
 
 Add Figure
+
+```{r}
+#| out-width: "90%"
+knitr::include_graphics("/Users/kameronkubecka/RStudioWD/PomDar.jpeg")
+```
+
+```{r}
+#| echo: false
+#| out-width: "4in"
+knitr::include_graphics("/Users/kameronkubecka/RStudioWD/PomDar.jpeg")
+```
